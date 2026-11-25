@@ -59,16 +59,6 @@ Agregar imágenes de las principales pantallas del sistema:
 - Inventario.
 - Producción.
 
-## 👨‍💻 Autor
 
-**Pedro Luis Mamani Delgado**
-
-Estudiante de Ingeniería de Software y Sistemas.
-
-Universidad Nacional de Juliaca (UNAJ).
-
-## 📄 Estado del proyecto
-
-En desarrollo.
 
 
